@@ -1,0 +1,43 @@
+.thumbnail{
+	border: none;
+}
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: #2e6da4;
+    width: 160px;
+    }
+    p{
+    	text-align: center;
+    }
+    .btn-default{
+    	border-radius: 50px;
+    	margin: 2px;
+    }
+   
+    .free{
+   position: absolute;
+   left: 70%;
+    	background-color: black;
+    	color: white;
+    	top: 5px;
+
+}
+.bar{
+	border: 2px solid yellow;
+	width: 40px;
+}
+.im{
+	height: 125px;
+}
+.nv{
+	float: right;
+}
+.navbar-nav{
+text-align: center;
+}
+.navbar-default{
+  background-color: white;
+  border:none;
+}
+  
